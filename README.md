@@ -8,8 +8,8 @@ Live demo: https://resonant-cumbersome-dingo.glitch.me/
 
 # Schema
 
-        target: Selector for the object to animate.
-        destination: The position where the object will move to.
+        target: Selector for the "id" of the object to animate.  I.ex. <a-box id="*theobject*" ...
+        destination: The position where the object will move to, using typical A-frame position coordinates.
         duration (optional): The duration of the animation in milliseconds. If not provided, it defaults to 2000 milliseconds (2 seconds).
 
 
