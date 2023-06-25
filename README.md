@@ -2,7 +2,7 @@
 
 Custom component created by DisketteOmelette (github.com/disketteomelette)
 
-The Easy Slide component is an A-Frame component that allows you to easily create click-based animations for objects in your A-Frame scenes. With this component, you can define the target object, the destination position, and the duration of the animation. This component can be used by both cameras and any other type of entities, allowing you to physically force movement to any part of the scene based on the coordinates you provide, either smoothly or abruptly, in a linear manner.
+Easy Slide is an A-Frame component that allows you to easily create click-based animations for objects in your scenes. With this component you can define the target object, the destination position, and the duration of the animation. This component can be used by both cameras and any other type of entities, allowing you to physically force movement to any part of the scene based on the coordinates you provide, either smoothly or abruptly, in a linear manner.
 
 Live demo: https://resonant-cumbersome-dingo.glitch.me/
 
