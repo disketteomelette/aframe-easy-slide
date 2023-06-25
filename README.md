@@ -19,7 +19,7 @@ For more information on A-Frame and its components, please refer to the A-Frame 
 
 # Usage examples
 
-These "buttons" forces the camera "camara" to move in the scene:
+These "buttons" forces the camera "camara" to move in the scene (see attached "sample.html" and "aframe-easy-slide.js" for more information):
 
     <a-box color="blue" easy-slide="target: #camara; destination: 0 1.7 -1; duration: 1000" scale="0.2 0.2 0.1" position="0 2.1 -1"></a-box>
     <a-box color="red" easy-slide="target: #camara; destination: 0 1.2 -2; duration: 3000" scale="0.2 0.2 0.1" position="0 2.1 -2"></a-box>
