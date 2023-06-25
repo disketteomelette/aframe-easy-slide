@@ -16,3 +16,9 @@ We have defined the easy-slide component with three properties: target, destinat
 Feel free to explore and experiment with different target objects, destination positions, and durations to achieve the desired effects in your virtual reality experiences!
 
 For more information on A-Frame and its components, please refer to the A-Frame documentation.
+
+# Usage examples
+
+    <a-box color="blue" easy-slide="target: #camara; destination: 0 1.7 -1; duration: 1000" scale="0.2 0.2 0.1" position="0 2.1 -1"></a-box>
+    <a-box color="red" easy-slide="target: #camara; destination: 0 1.2 -2; duration: 3000" scale="0.2 0.2 0.1" position="0 2.1 -2"></a-box>
+    <a-box color="magenta" easy-slide="target: #camara; destination: 0 1.6 0; duration: 100" scale="0.2 0.2 0.1" position="0 2.1 -4"></a-box>
